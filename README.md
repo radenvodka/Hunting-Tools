@@ -22,6 +22,11 @@ A collection of cool tools
 
 [JSFScan.sh](https://github.com/KathanP19/JSFScan.sh) - Script made for all your javascript recon automation in bugbounty. Just pass subdomain list to it and options according to your preference.
 
+[XRCross](https://github.com/pikpikcu/XRCross) - XRCross is a Reconstruction, Scanner, and a tool for penetration / BugBounty testing. 
+This tool was built to test (XSS|SSRF|CORS|SSTI|IDOR|RCE|LFI|SQLI) vulnerabilities.
+
+[InQL](https://github.com/doyensec/inql) - can be used as a stand-alone script or as a Burp Suite extension.
+
 # Others
 
 [hack-pet](https://github.com/hahwul/hack-pet) - is collection of command snippets that are useful to hackers/bug bounty hunters. It is similar to the recon_profile, but it uses the pet. pet can manage the command set more progressively.
