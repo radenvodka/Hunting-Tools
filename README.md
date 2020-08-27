@@ -10,9 +10,6 @@ A collection of cool tools
 [subjack](https://github.com/haccer/subjack) -  is a Subdomain Takeover tool written in Go designed to scan a list of subdomains concurrently and identify ones that are able to be hijacked
 
 [fetchurls](https://github.com/adamdehaven/fetchurls) - A bash script to spider a site, follow links, and fetch urls (with built-in filtering) into a generated text file
-[fetchurls](https://github.com/adamdehaven/fetchurls) - A bash script to spider a site, follow links, and fetch urls (with built-in filtering) into a generated text file
-
-[fetchurls](https://github.com/adamdehaven/fetchurls) - A bash script to spider a site, follow links, and fetch urls (with built-in filtering) into a generated text file
 
 [assets.sh](https://github.com/mr-n30/assets) - Bash script used to automate asset discovery when doing recon. Output will be saved in: ~/targets/<domain>.
   
@@ -47,3 +44,8 @@ This tool was built to test (XSS|SSRF|CORS|SSTI|IDOR|RCE|LFI|SQLI) vulnerabiliti
 [One-liner Bug Bounty](https://github.com/dwisiswant0/awesome-oneliner-bugbounty) - A collection of awesome one-liner scripts especially for bug bounty.
 
 [bugbounty-cheatsheet](https://github.com/EdOverflow/bugbounty-cheatsheet) - A list of interesting payloads, tips and tricks for bug bounty hunters.
+
+
+# Contribution
+
+You can make a pull request.
