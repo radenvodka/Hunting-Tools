@@ -1,6 +1,16 @@
 # Bugbounty hunting tools
 A collection of cool tools
 
+[httprobe](https://github.com/tomnomnom/httprobe) - Takes a list of domains and probes for working http and https servers.
+
+[lazys3](https://github.com/nahamsec/lazys3) - A Ruby script to brute-force for AWS s3 buckets using different permutations.
+
+[JSParser](https://github.com/nahamsec/JSParser) - A python 2.7 script using Tornado and JSBeautifier to parse relative URLs from JavaScript files. This is especially useful for discovering AJAX requests when performing security research or bug bounty hunting.
+
+[subjack](https://github.com/haccer/subjack) -  is a Subdomain Takeover tool written in Go designed to scan a list of subdomains concurrently and identify ones that are able to be hijacked
+
+[fetchurls](https://github.com/adamdehaven/fetchurls) - A bash script to spider a site, follow links, and fetch urls (with built-in filtering) into a generated text file
+[fetchurls](https://github.com/adamdehaven/fetchurls) - A bash script to spider a site, follow links, and fetch urls (with built-in filtering) into a generated text file
 
 [fetchurls](https://github.com/adamdehaven/fetchurls) - A bash script to spider a site, follow links, and fetch urls (with built-in filtering) into a generated text file
 
