@@ -27,6 +27,9 @@ This tool was built to test (XSS|SSRF|CORS|SSTI|IDOR|RCE|LFI|SQLI) vulnerabiliti
 
 [InQL](https://github.com/doyensec/inql) - can be used as a stand-alone script or as a Burp Suite extension.
 
+[PENTOL](https://github.com/radenvodka/PENTOL) - Pentester Toolkit is built as a plugin for the Fiddler HTTP debugging proxy.
+
+
 # Others
 
 [hack-pet](https://github.com/hahwul/hack-pet) - is collection of command snippets that are useful to hackers/bug bounty hunters. It is similar to the recon_profile, but it uses the pet. pet can manage the command set more progressively.
