@@ -36,6 +36,8 @@ This tool was built to test (XSS|SSRF|CORS|SSTI|IDOR|RCE|LFI|SQLI) vulnerabiliti
 
 [PENTOL](https://github.com/radenvodka/PENTOL) - Pentester Toolkit is built as a plugin for the Fiddler HTTP debugging proxy.
 
+[Hack the JWT(JSON Web Token)](https://github.com/hahwul/jwt-hack) - jwt-hack is JWT hacking, security testing utility.
+
 
 # Others
 
