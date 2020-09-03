@@ -3,6 +3,8 @@ A collection of cool tools
 
 [httprobe](https://github.com/tomnomnom/httprobe) - Takes a list of domains and probes for working http and https servers.
 
+[unimap](https://github.com/Edu4rdSHL/unimap) - Scan only once by IP address and reduce scan times with Nmap for large amounts of data. Unimap is an abbreviation of "Unique Nmap Scan". The tool can run in Linux, OSX, Windows or Android (Termux) without problems.
+
 [lazys3](https://github.com/nahamsec/lazys3) - A Ruby script to brute-force for AWS s3 buckets using different permutations.
 
 [JSParser](https://github.com/nahamsec/JSParser) - A python 2.7 script using Tornado and JSBeautifier to parse relative URLs from JavaScript files. This is especially useful for discovering AJAX requests when performing security research or bug bounty hunting.
