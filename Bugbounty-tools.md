@@ -1,6 +1,8 @@
 # Bugbounty hunting tools
 A collection of cool tools
 
+[LinkFinder](https://github.com/GerbenJavado/LinkFinder) - is a python script written to discover endpoints and their parameters in JavaScript files.
+
 [httprobe](https://github.com/tomnomnom/httprobe) - Takes a list of domains and probes for working http and https servers.
 
 [unimap](https://github.com/Edu4rdSHL/unimap) - Scan only once by IP address and reduce scan times with Nmap for large amounts of data. Unimap is an abbreviation of "Unique Nmap Scan". The tool can run in Linux, OSX, Windows or Android (Termux) without problems.
