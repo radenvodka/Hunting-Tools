@@ -42,6 +42,8 @@ This tool was built to test (XSS|SSRF|CORS|SSTI|IDOR|RCE|LFI|SQLI) vulnerabiliti
 
 [Hack the JWT(JSON Web Token)](https://github.com/hahwul/jwt-hack) - jwt-hack is JWT hacking, security testing utility.
 
+[Bing-ip2hosts](https://github.com/urbanadventurer/bing-ip2hosts) - Bing-ip2hosts is a Bing.com web scraper to discover hostnames by IP address.
+
 
 # Others
 
