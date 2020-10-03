@@ -7,3 +7,9 @@
 [hasher](https://github.com/CiKu370/hasher) - Hasher is a Hash Cracker that has supported more than 7 types of hashes.
 
 [jwt_tool](https://github.com/ticarpi/jwt_tool) - A toolkit for testing, tweaking and cracking JSON Web Tokens
+
+[win-brute-logon](https://github.com/DarkCoderSc/win-brute-logon) - Crack any Microsoft Windows users password without any privilege (Guest account included)
+
+[bit-cracker](https://github.com/e-ago/bitcracker) - BitCracker is the first open source password cracking tool for memory units encrypted with BitLocker
+
+[hyprPulse](https://github.com/Pure-L0G1C/hyprPulse) - hyprPulse, an interactive brute force tool that can simultaneously attack multiple accounts, from multiple sites, using multiple wordlists; all while staying anonymous.
