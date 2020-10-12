@@ -53,6 +53,9 @@ This tool was built to test (XSS|SSRF|CORS|SSTI|IDOR|RCE|LFI|SQLI) vulnerabiliti
 
 [bugbounty-cheatsheet](https://github.com/EdOverflow/bugbounty-cheatsheet) - A list of interesting payloads, tips and tricks for bug bounty hunters.
 
+[bb-reports-templates](https://github.com/gwen001/bb-reports-templates) - collection of reports templates.
+
+
 
 # Contribution
 
