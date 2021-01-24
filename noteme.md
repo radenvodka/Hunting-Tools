@@ -1,7 +1,7 @@
 https://www.exploit-db.com/exploits/47689 --> https://redirect.local/%0a.evilwebsite.com
 https://www.exploit-db.com/exploits/47688 --> http://domain.tld/%09//otherdomain.tld
 https://www.exploit-db.com/exploits/31052 -->
-
+```
 ?authorize_callback=///example.com
 
 ?return=///example.com
@@ -34,3 +34,4 @@ https://www.exploit-db.com/exploits/31052 -->
 
 ?dir=///example.com
 
+```
